@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/DanielBadoi420/trivia-visualizer.git/static/css/main.146dd92b.css",
+    "main.js": "/DanielBadoi420/trivia-visualizer.git/static/js/main.a9786ebc.js",
+    "static/media/istockphoto-1428792471-640x640.jpg": "/DanielBadoi420/trivia-visualizer.git/static/media/istockphoto-1428792471-640x640.4f756bc18d8e318c83cc.jpg",
+    "index.html": "/DanielBadoi420/trivia-visualizer.git/index.html",
+    "main.146dd92b.css.map": "/DanielBadoi420/trivia-visualizer.git/static/css/main.146dd92b.css.map",
+    "main.a9786ebc.js.map": "/DanielBadoi420/trivia-visualizer.git/static/js/main.a9786ebc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.146dd92b.css",
+    "static/js/main.a9786ebc.js"
+  ]
+}
